@@ -1,0 +1,17 @@
+transformers
+bitsandbytes
+accelerate
+peft
+datasets
+sentencepiece
+huggingface_hub
+PyPDF2
+markdown
+pandas
+dotenv
+feedparser
+requests
+numpy
+openai
+datasets
+ragas

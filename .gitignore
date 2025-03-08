@@ -8,6 +8,7 @@ __pycache__/
 
 # Folders
 .vector_db/
+data/dataset/
 
 # Distribution / packaging
 .Python
