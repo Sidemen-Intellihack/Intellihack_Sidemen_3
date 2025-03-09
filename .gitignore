@@ -11,6 +11,9 @@ __pycache__/
 data/dataset/
 .vscode/
 
+# Model
+unsloth.Q4_K_M.gguf
+
 # Distribution / packaging
 .Python
 build/
