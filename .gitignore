@@ -9,6 +9,7 @@ __pycache__/
 # Folders
 .vector_db/
 data/dataset/
+.vscode/
 
 # Distribution / packaging
 .Python
